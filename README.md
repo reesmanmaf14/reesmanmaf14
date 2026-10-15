@@ -3,11 +3,6 @@
 </div>
 
 <p align="center">
-  Full-stack developer building accessible, user-centered web applications.
- 
-</p>
-
-<p align="center">
   <a href="https://portfolioreesman.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/reesman14">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://medium.com/@reesmank14">Medium</a> &nbsp;·&nbsp;
