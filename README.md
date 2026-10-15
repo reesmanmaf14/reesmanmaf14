@@ -56,10 +56,6 @@ A responsive developer portfolio with a component-based design and smooth motion
 **Stack:** React · Vite · Tailwind CSS · GSAP  
 **Links:** [Live site](https://portfolioreesman.vercel.app/) · [Repository](https://github.com/reesmanmaf14/Portfolio-Updated)
 
-### Academic & Other Projects
-
-- **[Book-Selling-App](https://github.com/reesmanmaf14/Book-Selling-App)** — C# Windows Forms desktop app with login and sign-up, separate admin and user dashboards, book management, and ordering.
-
 ## Tech Stack
 
 **Languages**  
