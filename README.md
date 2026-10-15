@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/readme/banner-light.png">
-  <img alt="Reesman Aboobacker — Full-Stack Developer and Software Engineering Student" src="assets/readme/banner-light.png" width="100%">
-</picture>
+<img src="banner-dark.jpg" alt="Reesman Aboobacker — Software Engineering and Full-Stack Development" width="100%">
 
 <p align="center">
   Full-stack developer building accessible, user-centered web applications.
