@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/readme/banner-dark.png" alt="Reesman Aboobacker — Software Engineering and Full-Stack Development" width="100%">
+  <img src="assets/readme/banner.jpg" alt="Reesman Aboobacker — Software Engineering and Full-Stack Development" width="100%">
 </div>
 
 <p align="center">
