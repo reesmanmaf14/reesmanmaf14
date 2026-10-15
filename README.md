@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner-dark.jpg" alt="Reesman Aboobacker — Software Engineering and Full-Stack Development" width="100%" style="border-radius: 40px;">
+  <img src="banner-dark.jpg" alt="Reesman Aboobacker — Software Engineering and Full-Stack Development" width="100%">
 </div>
 
 <p align="center">
