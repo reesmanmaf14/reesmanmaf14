@@ -5,8 +5,8 @@
 </picture>
 
 <p align="center">
-  Full-stack developer building accessible, user-centered web applications.<br>
-  HNDIT (Software Engineering) · SLIATE, Sri Lanka · <b>GPA 4.00</b>
+  Full-stack developer building accessible, user-centered web applications.
+ 
 </p>
 
 <p align="center">
