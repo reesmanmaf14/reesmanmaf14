@@ -1,4 +1,6 @@
-<img src="banner-dark.jpg" alt="Reesman Aboobacker — Software Engineering and Full-Stack Development" width="100%">
+<div align="center">
+  <img src="banner-dark.jpg" alt="Reesman Aboobacker — Software Engineering and Full-Stack Development" width="100%" style="border-radius: 20px;">
+</div>
 
 <p align="center">
   Full-stack developer building accessible, user-centered web applications.
